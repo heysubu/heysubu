@@ -125,17 +125,37 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card only -->
-<img src="https://github-readme-stats.vercel.app/api?username=heysubu&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=a855f7&text_color=ffffff&border_radius=12&hide=prs,issues,contribs&custom_title=Subham%20G's%20GitHub%20Stats&include_all_commits=true" height="165"/>
+<!-- ✅ cache_seconds=1800 forces refresh every 30 mins instead of GitHub's default 24hr cache -->
+<img src="https://github-readme-stats.vercel.app/api?username=heysubu&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=a855f7&text_color=ffffff&border_radius=12&hide=prs,issues,contribs&custom_title=Subham%20G's%20GitHub%20Stats&include_all_commits=true&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=heysubu&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border_radius=12" width="55%"/>
+<!-- ✅ cache_seconds=1800 on streak too -->
+<img src="https://streak-stats.demolab.com?user=heysubu&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border_radius=12&cache_seconds=1800" width="55%"/>
 
 <br/><br/>
 
+<!-- ✅ Activity Graph - auto-refreshes from GitHub data -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heysubu&bg_color=0d1117&color=ffffff&line=a855f7&point=ffffff&area=true&area_color=3b0764&hide_border=true&custom_title=Subham%20G's%20Contribution%20Graph)](https://github.com/heysubu)
 
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+### 🐍 &nbsp; Contribution Snake
+
+<!-- ✅ Snake animation — auto-regenerated every 12 hours via GitHub Actions -->
+<!-- After the workflow runs once, this image will appear. Branch: output -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/heysubu/heysubu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heysubu/heysubu/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/heysubu/heysubu/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
