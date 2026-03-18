@@ -41,7 +41,6 @@
 | 📊 **MIS & Reporting** <br/><br/> ▸ Delivered weekly & monthly MIS to C-suite across **15–19 group companies** <br/> ▸ Cut report generation time by **85%** using Excel automation <br/> ▸ Built automated dashboards eliminating 100% manual data entry <br/> ▸ Managed full PO lifecycle for **50+ vendors** with zero errors | ⚡ **Excel Automation** <br/><br/> ▸ Designed **Macros** for end-to-end workflow automation <br/> ▸ Built **Power Query** pipelines to clean & transform raw data instantly <br/> ▸ Dynamic dashboards with Pivot Tables, INDEX-MATCH & Conditional Formatting <br/> ▸ Reduced audit preparation time by **40%** via automated compliance tracking |
 | 📈 **Business Intelligence** <br/><br/> ▸ Power BI dashboards with **DAX** for real-time KPI tracking <br/> ▸ Built inventory systems for **EV dealerships** (Ather Energy) <br/> ▸ Sales tracking tools that helped teams hit targets **3 months running** <br/> ▸ Delivered analytical reports enabling faster management decisions | 🤝 **Process & Operations** <br/><br/> ▸ Managed billing for **100+ vehicles (₹40L+/month)** with zero errors <br/> ▸ Improved RTO registration process, cutting time by **20%** <br/> ▸ Maintained **95% on-time delivery** across logistics & B2B coordination <br/> ▸ Saved **₹8+ lakhs annually** through documented process improvements |
 
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -64,7 +63,9 @@
 **— AI Tools —**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![Julius AI](https://img.shields.io/badge/Julius_AI-5B4FE9?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
+![Power BI Copilot](https://img.shields.io/badge/Power_BI_Copilot-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **— How I Work —**
 
